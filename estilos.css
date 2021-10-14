@@ -1,11 +1,15 @@
+*{
+    background-color:cornsilk;
+}
+
 nav{
-    background-color: beige;
+    background-color: darkorange;
 }
 
-aside{
-    background-position-x: left;
+aside.banner{
+    font-size: xx-large;
 }
 
-section{
-    background-color: chartreuse;
+article{
+    background-color :dimgray;
 }
